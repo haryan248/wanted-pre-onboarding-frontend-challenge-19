@@ -1,0 +1,15 @@
+@mixin button-default {
+  border-radius: 4px;
+  padding: 6px 16px;
+  color: #fff;
+}
+
+.add-button {
+  @include button-default;
+  background-color: #6fbf73;
+}
+
+.delete-button {
+  @include button-default;
+  background-color: #aa2e25;
+}

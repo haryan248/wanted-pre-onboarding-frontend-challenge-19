@@ -1,0 +1,12 @@
+.add-section {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+
+  .todo-container {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+  }
+}
