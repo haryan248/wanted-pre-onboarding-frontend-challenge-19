@@ -1,5 +1,5 @@
-import { TodoAddSection } from "@/components/Todo/TodoAddSection";
-import { TodoList } from "@/components/Todo/TodoList";
+import { TodoList } from "@/components/List";
+import { TodoAddSection } from "@/components/TodoAddSection";
 
 import styles from "./style.module.scss";
 
